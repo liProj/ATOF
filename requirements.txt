@@ -1,0 +1,7 @@
+# Install a CUDA-compatible PyTorch build before these requirements for feature extraction.
+numpy
+scipy
+torch
+torchvision
+timm>=1.0.20
+scikit-learn
